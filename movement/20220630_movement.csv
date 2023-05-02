@@ -1,0 +1,8 @@
+﻿date,,name_1,name_2,asset_class,Sector,currency,shares,price,amount,event
+07/04/2022,GOOGL-US,GOOGL,Alphabet Inc. Class A,Public Equities,Technology Services,USD,99,135.8885,13452.9615,Subscription
+05/05/2022,TSLA-US,TSLA,Tesla Inc,Public Equities,Consumer Durables,USD,74,291.09335,21540.9079,Subscription
+16/05/2022,HD-US,HD,"Home Depot, Inc.",Public Equities,Retail Trade,USD,46,295.99,13615.54,Subscription
+18/05/2022,,Predios LTDA,,Real Estate,Real Estate,BRL,,,12000,Subscription
+22/06/2022,SONY-US,SONY,Sony Group Corporation Sponsored ADR,Public Equities,Electronic Technology,USD,423,83.75,35426.25,Subscription
+28/06/2022,SONY-US,SONY,Sony Group Corporation Sponsored ADR,Public Equities,Electronic Technology,USD,-15,83.19,-1247.85,Redemption
+30/06/2022,,Brazilian Fund,,Liquid Funds,Liquid Funds,BRL,100,987.6047,98760.47,Subscription

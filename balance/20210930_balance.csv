@@ -1,0 +1,25 @@
+﻿date,name_1,name_2,asset_class,Sector,currency,shares,price,amount,event
+05/07/2021,Investment Fund,,Liquid Funds,Liquid Funds,USD,100,1000,100000,Subscription
+30/07/2021,Real Estate Company,,Real Estate,Real Estate,USD,,,95521.11466,Valuation Update
+30/07/2021,Predios LTDA,,Real Estate,Real Estate,BRL,,,211869.0149,Valuation Update
+30/07/2021,VC Company,,PE / VC,PE / VC,CAD,,,109484.1629,Valuation Update
+30/07/2021,PE Company,,PE / VC,PE / VC,JPY,,,688932.09,Valuation Update
+30/07/2021,Private Equity Investments,,PE / VC,PE / VC,EUR,,,422107.5248,Valuation Update
+30/07/2021,Investment Fund,,Liquid Funds,Liquid Funds,USD,100,1000,100000,Valuation Update
+10/08/2021,Brazilian Fund,,Liquid Funds,Liquid Funds,BRL,200,1000,200000,Subscription
+31/08/2021,Indian Fund,,Liquid Funds,Liquid Funds,INR,100,1000,100000,Subscription
+31/08/2021,Real Estate Company,,Real Estate,Real Estate,USD,,,95521.11466,Valuation Update
+31/08/2021,Predios LTDA,,Real Estate,Real Estate,BRL,,,211869.0149,Valuation Update
+31/08/2021,VC Company,,PE / VC,PE / VC,CAD,,,109484.1629,Valuation Update
+31/08/2021,PE Company,,PE / VC,PE / VC,JPY,,,688932.09,Valuation Update
+31/08/2021,Private Equity Investments,,PE / VC,PE / VC,EUR,,,422107.5248,Valuation Update
+31/08/2021,Investment Fund,,Liquid Funds,Liquid Funds,USD,100,1005,100500,Valuation Update
+31/08/2021,Brazilian Fund,,Liquid Funds,Liquid Funds,BRL,200,1001,200200,Valuation Update
+30/09/2021,Real Estate Company,,Real Estate,Real Estate,USD,,,95521.11466,Valuation Update
+30/09/2021,Predios LTDA,,Real Estate,Real Estate,BRL,,,211869.0149,Valuation Update
+30/09/2021,VC Company,,PE / VC,PE / VC,CAD,,,109484.1629,Valuation Update
+30/09/2021,PE Company,,PE / VC,PE / VC,JPY,,,688932.09,Valuation Update
+30/09/2021,Private Equity Investments,,PE / VC,PE / VC,EUR,,,422107.5248,Valuation Update
+30/09/2021,Investment Fund,,Liquid Funds,Liquid Funds,USD,100,1002,100200,Valuation Update
+30/09/2021,Brazilian Fund,,Liquid Funds,Liquid Funds,BRL,200,1001,200200,Valuation Update
+30/09/2021,Indian Fund,,Liquid Funds,Liquid Funds,INR,100,1003,100300,Valuation Update

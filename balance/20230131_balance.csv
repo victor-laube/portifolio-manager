@@ -1,0 +1,8 @@
+﻿date,name_1,name_2,asset_class,Sector,currency,shares,price,amount,event
+31/01/2023,Real Estate Company,,Real Estate,Real Estate,USD,,,117039.0613,Valuation Update
+31/01/2023,Predios LTDA,,Real Estate,Real Estate,BRL,,,227505.8572,Valuation Update
+31/01/2023,VC Company,,PE / VC,PE / VC,CAD,,,134462.4271,Valuation Update
+31/01/2023,PE Company,,PE / VC,PE / VC,JPY,,,842781.8504,Valuation Update
+31/01/2023,Private Equity Investments,,PE / VC,PE / VC,EUR,,,498282.5526,Valuation Update
+31/01/2023,Investment Fund,,Liquid Funds,Liquid Funds,USD,100,1334.848547,133484.8547,Valuation Update
+31/01/2023,Brazilian Fund,,Liquid Funds,Liquid Funds,BRL,300,1549.815509,464944.6527,Valuation Update

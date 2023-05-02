@@ -1,0 +1,15 @@
+﻿date,,name_1,name_2,asset_class,Sector,currency,shares,price,amount,event
+05/07/2022,VALE3-BR,VALE3.SA,Vale S.A.,Public Equities,Non-Energy Minerals,BRL,-18,74.3,-1337.4,Redemption
+06/07/2022,SONY-US,SONY,Sony Group Corporation Sponsored ADR,Public Equities,Electronic Technology,USD,39,80.33,3132.87,Subscription
+12/07/2022,VALE3-BR,VALE3.SA,Vale S.A.,Public Equities,Non-Energy Minerals,BRL,338,73.05,24690.9,Subscription
+12/07/2022,QSR-US,QSR,Restaurant Brands International Inc,Public Equities,Consumer Services,USD,72,51.11,3679.92,Subscription
+14/07/2022,SONY-US,SONY,Sony Group Corporation Sponsored ADR,Public Equities,Electronic Technology,USD,399,81.1,32358.9,Subscription
+20/07/2022,VALE3-BR,VALE3.SA,Vale S.A.,Public Equities,Non-Energy Minerals,BRL,424,67.39,28573.36,Subscription
+02/08/2022,ABI-BE,ABI.BR,Anheuser-Busch InBev SA/NV,Public Equities,Consumer Non-Durables,EUR,91,50.75,4618.25,Subscription
+18/08/2022,PETR3-BR,PETR3.SA,Petroleo Brasileiro SA,Public Equities,Energy Minerals,BRL,427,36.81,15717.87,Subscription
+18/08/2022,VALE3-BR,VALE3.SA,Vale S.A.,Public Equities,Non-Energy Minerals,BRL,369,67.72,24988.68,Subscription
+24/08/2022,ABI-BE,ABI.BR,Anheuser-Busch InBev SA/NV,Public Equities,Consumer Non-Durables,EUR,100,52.25,5225,Subscription
+14/09/2022,PETR3-BR,PETR3.SA,Petroleo Brasileiro SA,Public Equities,Energy Minerals,BRL,62,34.68,2150.16,Subscription
+21/09/2022,GOOGL-US,GOOGL,Alphabet Inc. Class A,Public Equities,Technology Services,USD,22,99.28,2184.16,Subscription
+23/09/2022,IBM-US,IBM,International Business Machines Corporation,Public Equities,Technology Services,USD,37,122.71,4540.27,Subscription
+27/09/2022,IBM-US,IBM,International Business Machines Corporation,Public Equities,Technology Services,USD,359,121.74,43704.66,Subscription

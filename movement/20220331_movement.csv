@@ -1,0 +1,9 @@
+﻿date,,name_1,name_2,asset_class,Sector,currency,shares,price,amount,event
+12/01/2022,PETR3-BR,PETR3.SA,Petroleo Brasileiro SA,Public Equities,Energy Minerals,BRL,-5,33.05,-165.25,Redemption
+24/01/2022,PETR3-BR,PETR3.SA,Petroleo Brasileiro SA,Public Equities,Energy Minerals,BRL,488,34.65,16909.2,Subscription
+01/02/2022,IBM-US,IBM,International Business Machines Corporation,Public Equities,Technology Services,USD,-22,135.53,-2981.66,Redemption
+08/02/2022,IBM-US,IBM,International Business Machines Corporation,Public Equities,Technology Services,USD,326,137.02,44668.52,Subscription
+10/02/2022,INTC-US,INTC,Intel Corporation,Public Equities,Electronic Technology,USD,108,48.86,5276.88,Subscription
+07/03/2022,INTC-US,INTC,Intel Corporation,Public Equities,Electronic Technology,USD,-11,47.68,-524.48,Redemption
+15/03/2022,SONY-US,SONY,Sony Group Corporation Sponsored ADR,Public Equities,Electronic Technology,USD,37,98.1,3629.7,Subscription
+25/03/2022,VALE3-BR,VALE3.SA,Vale S.A.,Public Equities,Non-Energy Minerals,BRL,167,95.23,15903.41,Subscription

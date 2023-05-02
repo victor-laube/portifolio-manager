@@ -1,0 +1,8 @@
+﻿date,,name_1,name_2,asset_class,Sector,currency,shares,price,amount,event
+08/01/2021,HD-US,HD,"Home Depot, Inc.",Public Equities,Retail Trade,USD,42,269.09,11301.78,Subscription
+13/01/2021,QSR-US,QSR,Restaurant Brands International Inc,Public Equities,Consumer Services,USD,420,63.18,26535.6,Subscription
+28/01/2021,,Real Estate Company,,Real Estate,Real Estate,USD,,,100000,Subscription
+16/02/2021,GOOGL-US,GOOGL,Alphabet Inc. Class A,Public Equities,Technology Services,USD,104,105.534996,10975.63958,Subscription
+10/03/2021,ABI-BE,ABI.BR,Anheuser-Busch InBev SA/NV,Public Equities,Consumer Non-Durables,EUR,400,53.14,21256,Subscription
+12/03/2021,HD-US,HD,"Home Depot, Inc.",Public Equities,Retail Trade,USD,-25,273.1,-6827.5,Redemption
+30/03/2021,TSLA-US,TSLA,Tesla Inc,Public Equities,Consumer Durables,USD,264,211.87334,55934.56176,Subscription

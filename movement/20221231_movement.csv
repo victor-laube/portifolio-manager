@@ -1,0 +1,6 @@
+﻿date,,name_1,name_2,asset_class,Sector,currency,shares,price,amount,event
+26/10/2022,INTC-US,INTC,Intel Corporation,Public Equities,Electronic Technology,USD,199,27.21,5414.79,Subscription
+01/12/2022,GOOGL-US,GOOGL,Alphabet Inc. Class A,Public Equities,Technology Services,USD,-9,100.99,-908.91,Redemption
+15/12/2022,TSLA-US,TSLA,Tesla Inc,Public Equities,Consumer Durables,USD,104,157.67,16397.68,Subscription
+27/12/2022,TSLA-US,TSLA,Tesla Inc,Public Equities,Consumer Durables,USD,-9,109.1,-981.9,Redemption
+30/12/2022,,Indian Fund,,Liquid Funds,Liquid Funds,INR,-100,1281.186,-128118.6,Redemption

@@ -1,0 +1,25 @@
+﻿date,name_1,name_2,asset_class,Sector,currency,shares,price,amount,event
+31/10/2022,Real Estate Company,,Real Estate,Real Estate,USD,,,105424.8023,Valuation Update
+31/10/2022,Predios LTDA,,Real Estate,Real Estate,BRL,,,221141.6547,Valuation Update
+31/10/2022,VC Company,,PE / VC,PE / VC,CAD,,,122825.3804,Valuation Update
+31/10/2022,PE Company,,PE / VC,PE / VC,JPY,,,752681.6553,Valuation Update
+31/10/2022,Private Equity Investments,,PE / VC,PE / VC,EUR,,,463586.3764,Valuation Update
+31/10/2022,Investment Fund,,Liquid Funds,Liquid Funds,USD,100,1230.654606,123065.4606,Valuation Update
+31/10/2022,Brazilian Fund,,Liquid Funds,Liquid Funds,BRL,300,1270.168947,381050.6842,Valuation Update
+31/10/2022,Indian Fund,,Liquid Funds,Liquid Funds,INR,100,1099.973321,109997.3321,Valuation Update
+30/11/2022,Real Estate Company,,Real Estate,Real Estate,USD,,,105424.8023,Valuation Update
+30/11/2022,Predios LTDA,,Real Estate,Real Estate,BRL,,,221141.6547,Valuation Update
+30/11/2022,VC Company,,PE / VC,PE / VC,CAD,,,122825.3804,Valuation Update
+30/11/2022,PE Company,,PE / VC,PE / VC,JPY,,,752681.6553,Valuation Update
+30/11/2022,Private Equity Investments,,PE / VC,PE / VC,EUR,,,463586.3764,Valuation Update
+30/11/2022,Investment Fund,,Liquid Funds,Liquid Funds,USD,100,1210.427453,121042.7453,Valuation Update
+30/11/2022,Brazilian Fund,,Liquid Funds,Liquid Funds,BRL,300,1280.680165,384204.0496,Valuation Update
+30/11/2022,Indian Fund,,Liquid Funds,Liquid Funds,INR,100,1245.43995,124543.995,Valuation Update
+30/12/2022,Indian Fund,,Liquid Funds,Liquid Funds,INR,0,1281.185645,0,Redemption
+31/12/2022,Real Estate Company,,Real Estate,Real Estate,USD,,,117039.0613,Valuation Update
+31/12/2022,Predios LTDA,,Real Estate,Real Estate,BRL,,,227505.8572,Valuation Update
+31/12/2022,VC Company,,PE / VC,PE / VC,CAD,,,134462.4271,Valuation Update
+31/12/2022,PE Company,,PE / VC,PE / VC,JPY,,,842781.8504,Valuation Update
+31/12/2022,Private Equity Investments,,PE / VC,PE / VC,EUR,,,498282.5526,Valuation Update
+31/12/2022,Investment Fund,,Liquid Funds,Liquid Funds,USD,100,1362.436596,136243.6596,Valuation Update
+31/12/2022,Brazilian Fund,,Liquid Funds,Liquid Funds,BRL,300,1468.364925,440509.4775,Valuation Update
