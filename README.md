@@ -21,4 +21,4 @@ Para o desenvolvimento deste projeto, foi utilizado os arquivos .csv em anexo co
 - portifolio_manager.ipynb = jupyter com análise e manipulação de dados
 - pipeline.py = pipeline para integração com o Power BI
 
-*Alguns arquivos .csv são referente a base de dados individuais para no PowerBI*
+*Outros arquivos .csv são referente a base de dados manipuladas exportadas para o PowerBI*
