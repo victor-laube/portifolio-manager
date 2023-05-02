@@ -13,3 +13,12 @@ Para resolver esse desafio, foi utilizado Python para criar o pipeline de dados 
 
 ### Fonte de dados
 Para o desenvolvimento deste projeto, foi utilizado os arquivos .csv em anexo contendo as movimentações (subscrições e resgates de cada investimento) e saldos (valor dos ativos a cada mês) de uma carteira de investimentos.
+
+## Sobre os dados
+
+- balance = dados do balanço consolidado do portifolio
+- movement = dados dos movimentos de caixa do portifolio
+- portifolio_manager.ipynb = jupyter com análise e manipulação de dados
+- pipeline.py = pipeline para integração com o Power BI
+
+*Alguns arquivos .csv são referente a base de dados individuais para no PowerBI*
